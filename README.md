@@ -2,9 +2,9 @@
 
 ## Project Link
 
-[AirBnB Impact of Regulations]([https://www.kaggle.com/code/nehadattatraypawar/airbnb](https://github.com/Np-pawar/ecommerce/blob/maine%20commerce%20sales.ipynb))
+[E-Commerce]([https://www.kaggle.com/code/nehadattatraypawar/airbnb](https://github.com/Np-pawar/ecommerce/blob/maine%20commerce%20sales.ipynb))
 
-<img src="[https://miro.medium.com/v2/resize:fit:3000/1*FyZktqFMhrQD3swFaNun2g.jpeg](https://thumbs.dreamstime.com/b/e-commerce-online-shopping-business-technology-concept-screen-e-commerce-online-shopping-business-technology-concept-screen-207950081.jpg)" width=1200>
+<img src="(https://thumbs.dreamstime.com/b/e-commerce-online-shopping-business-technology-concept-screen-e-commerce-online-shopping-business-technology-concept-screen-207950081.jpg)" width=1200>
 
 1.	You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
 2.	You need to analyze sales based on product categories and determine which category has the lowest sales and which category has the highest sales.
